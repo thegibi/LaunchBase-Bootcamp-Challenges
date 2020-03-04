@@ -2,10 +2,16 @@
 
 <h1 align="center">challengs-bootcamp-launchbase</h2>&nbsp;&nbsp;&nbsp;
 <h3>Challenges building in the course of the Bootcamp launchBase.</h3>
-<h2>Desafio/challeng - 1: Primeiros passos com JS/ Getting started with JS.</h2>
+<h2>Desafio/challeng - 1: Conceitos sobre:</h2>
  
-
 - **Variáveis/Variables**;
 - **Condicionais/Conditions**;
 - **Operadores/Operators**.
+
+<h2>Desafio/challeng - 2: Conceitos sobre:</h2>
+
+- **Objects/Objetos**;
+- **Arrays/Vetores**.
+
+
 
