@@ -2,16 +2,20 @@
 
 <h1 align="center">challengs-launchBase-bootcamp</h2>&nbsp;&nbsp;&nbsp;
 <h3>Challenges building in the course of the launchBase bootcamp.</h3>
-<h2>Desafio/challeng - 1: Conceitos sobre:</h2>
+<h2>Desafio/challeng - 1 e 2: Conceitos sobre:</h2>
  
 - **Variáveis/Variables**;
 - **Condicionais/Conditions**;
 - **Operadores/Operators**.
 
-<h2>Desafio/challeng - 2: Conceitos sobre:</h2>
+<h2>Desafio/challeng - 3 e 4: Conceitos sobre:</h2>
 
 - **Objects/Objetos**;
 - **Arrays/Vetores**.
 
+<h2>Desafio/challeng - 5 e 6: Conceitos sobre:</h2>
 
+- **Funções/Functions e Métodos/Methods**;
+- **Estruturas de Repetição/Loop For**.
+- **Escopos/Scope**.
 
