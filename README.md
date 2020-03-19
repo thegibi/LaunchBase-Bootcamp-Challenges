@@ -13,7 +13,7 @@
 - **Objects/Objetos**;
 - **Arrays/Vetores**.
 
-<h2>Desafio/challeng - 5 e 6: Conceitos sobre:</h2>
+<h2>Desafio/challeng - 5, 6 e 7: Conceitos sobre:</h2>
 
 - **Funções/Functions e Métodos/Methods**;
 - **Estruturas de Repetição/Loop For**.
