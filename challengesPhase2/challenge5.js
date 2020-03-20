@@ -14,5 +14,5 @@ const users = [
     }
 ];
  for (let user of users) {
-     console.log(`${user.name} trabalha com ${user.techs.join(',')} .`)
+     console.log(`The ${user.name}, works with ${user.techs.join(',')}.`)
  }

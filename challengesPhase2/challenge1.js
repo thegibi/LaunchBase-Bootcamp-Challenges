@@ -9,9 +9,9 @@ const imc = weight / ( height * height);
 let message = '';
 
 if(imc >= 30) {
-    message = `${name}, você está acima do peso.`;
+    message = `${name}, sorry! You are overweight.`;
 } else {
-    message = `${name}, você não está acima do peso.`;
+    message = `${name}, Congrats! You do not overweight.`;
 }
 
 console.log(message);

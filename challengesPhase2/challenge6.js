@@ -25,6 +25,6 @@ function checkCssUsers(user) {
      const userCssTech = checkCssUsers(users[i])
 
      if(userCssTech) {
-         console.log(`${users[i].name} trabalha com CSS.`)
+         console.log(`The ${users[i].name}, works with CSS.`)
      }
  }

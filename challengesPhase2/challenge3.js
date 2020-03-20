@@ -10,4 +10,4 @@ const company = {
     },
 };
 
-console.log(`A Empresa ${company.name} está localizada na ${company.address.street}, ${company.address.number}.`);
+console.log(`The Company ${company.name} is at the address: ${company.address.street}, ${company.address.number}.`);

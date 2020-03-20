@@ -23,5 +23,5 @@ proprietary: [
 ]
 }
 
-console.log(`O usuário ${programer.name} tem ${programer.age} anos, 
-e trabalha com a tecnologia ${object.proprietary[0].name} com especialidade em ${object.proprietary[0].skills}.`);
+console.log(`The user ${programer.name} is ${programer.age} years old, 
+works with ${object.proprietary[0].name}, an expert in ${object.proprietary[0].skills}.`);

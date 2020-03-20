@@ -39,8 +39,8 @@ for(let user of users) {
     const balance = accontsBalance(user.incomes, user.expenses)
 
         if(balance > 0) {
-            console.log(`${user.name} possui saldo POSITIVO de ${balance.toFixed(2)}`)
+            console.log(`${user.name}, had a POSITIVE Balance of ${balance.toFixed(2)}.`)
         } else {
-            console.log(`${user.name} possui saldo NEGATIVO de ${balance.toFixed(2)}`)
+            console.log(`${user.name}, had a NEGATIVE Balance of ${balance.toFixed(2)}.`)
         }
 }
