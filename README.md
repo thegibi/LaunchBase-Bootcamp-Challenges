@@ -17,6 +17,15 @@
 <h2>Desafios/challengs - 5, 6 e 7: Conceitos sobre/Concepts about:</h2>
 
 - **Funções/Functions e Métodos/Methods**;
-- **Estruturas de Repetição/Loop For**.
+- **Estruturas de Repetição/Loop For**;
 - **Escopos/Scope**.
+
+<h2>Desafios/challengs - 8: Conceitos sobre/Concepts about:</h2>
+
+- **Boleanos/Booleans**;
+- **Escrita/Witting**;
+- **Padronização/Standardization**;
+- **Organização/Organization**.
+
+
 
