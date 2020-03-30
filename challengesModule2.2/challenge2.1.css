@@ -1,0 +1,27 @@
+html {
+    background: #353232 ;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+header {
+    padding: 30px;
+    text-align: right;
+    border-bottom: rgb(78, 5, 145) solid 2px;
+}
+header div a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0 30px;
+}
+header div a:hover {
+    color: rgb(78, 5, 145);
+    transition: color 300ms;
+}
+header div img {
+    float: left;
+}
