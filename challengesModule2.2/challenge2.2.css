@@ -6,9 +6,30 @@ body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
- div {
+
+header {
+    padding: 30px;
+    text-align: right;
+    border-bottom: 2px solid rgb(113, 89, 193) ;
+}
+
+header  a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: right;
+}
+
+header a:hover {
+    color: rgb(113, 89, 193);
+    transition: color 300ms;
+}
+
+div {
      text-align: center;
  }
+
 #about img {
     border: 5px solid white;
     border-radius: 50%;
@@ -33,11 +54,11 @@ h2 {
      font-weight: bolder;
      color: white;
  }
- div #techs li {
+#techs li {
     font-size: 16px;
     font-weight: bolder;
     padding: 5px;
-    margin: 10px 0;
+    margin: 5px 0;
     list-style-type: none;
 }
 footer {
@@ -53,9 +74,9 @@ footer {
     font-weight: bolder;
     font-size: 16px;
     line-height: 26px;
-    border-bottom: 2px solid #7744ee;
+    border-bottom: 2px solid rgb(113, 89, 193);
 }
 
 #socialMedia a:hover {
-    color: #7744ee;
+    color: rgb(113, 89, 193);
 }
