@@ -20,8 +20,8 @@ document.querySelector('.modal-close')
 document.querySelector('.modal-maximize')
     .addEventListener('click', function() {
         if(modal.classList.contains('maximize')) {
-            modal.classList.remove('maximize')
+            modal.classList.remove('maximize');
         } else {
             modal.classList.add('maximize');
-        }     
+        }
     });
