@@ -34,15 +34,15 @@
 <h2>Desafios/challengs 2.1 , 2.2 e 2.3: Start Web development - fontend / Iniciando Desenvolvimento Web - frontend:</h2>
 
 - **HTML5**;
-- **CSS3**.
-- **JavaScript**
+- **CSS3**;
+- **JavaScript**.
 
 <h1>Challenges of Module 2-3</h1>
 <h2>Desafios/challengs 3.1 e 3.2: Start server - backend / Iniciando o servidor - backend:</h2>
 
 - **Node.js**;
 - **Express**;
-- **Nodemon**.
+- **Nodemon**;
 - **Nunjucks**.
 
 
