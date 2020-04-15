@@ -1,80 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 html {
     background: #353232 ;
-   
 }
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
-
 header {
-    border-bottom: 2px solid rgb(113, 89, 193);
+    text-align: right;
+    border-bottom: 2px solid rgba(113, 89, 193, 0.3);
+    padding: 10px;
+    height: 60px;
+}
+
+header div {
     padding: 10px;
     text-align: right;
 }
 
-header  a {
+header div a {
     color: white;
     text-decoration: none;
     font-size: 18px;
     line-height: 28px;
-    margin: 10px 30px;
+    margin: 0px 30px;
+    
 }
-
-header a:hover {
+header div a:hover {
     color: rgb(113, 89, 193);
     transition: color 300ms;
 }
-
-div {
-     text-align: center;
- }
-
-#about img {
-    border: 5px solid white;
-    border-radius: 50%;
-    margin-top: 80px;
-   
+header div img {
+    float: left; 
 }
-h1 {
+
+.about {
+    text-align: center;
+}
+.about img {
+    width: 30vw;
+    height: 30vh;
+    margin: 5vh auto;
+}
+.about h1 {
     font-size: 45px;
     line-height: 65px;
     font-weight: bolder;
-    color: white;
+    color: rgb(113, 89, 193);
 }
-h2 {
+
+.about h2 {
     font-size: 18px;
     line-height: 28px;
     max-width: 500px;
-    margin: 0 auto;
-    opacity: 0.5;
+    margin: 50px auto;
+    opacity: 0.4;
 }
- div ul #main {
-     margin: 10px 0;
-     font-weight: bolder;
-     color: white;
- }
-#techs li {
+
+.about p {
     font-size: 16px;
     font-weight: bolder;
-    padding: 5px;
-    margin: 5px 0;
-    list-style-type: none;
+    margin: 20px auto;
+   
+    
 }
-footer {
-    margin-bottom: 20px;
+
+.techs {
+  text-align: center;
+  margin: 10px 30px;
+}
+
+.techs a {
+    margin: 10px 25px;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 16px;
+    line-height: 26px;
+    color: rgb(113, 89, 193);
+    
+}
+
+#socialMedia {
+    margin-bottom: 10px;
     text-align: center;
 }
 
-
 #socialMedia a {
-    margin: 0 25px;
+    margin: 5px 25px;
     text-decoration: none;
     color: white;
     font-weight: bolder;
     font-size: 16px;
     line-height: 26px;
     border-bottom: 2px solid rgb(113, 89, 193);
+    
 }
 
 #socialMedia a:hover {

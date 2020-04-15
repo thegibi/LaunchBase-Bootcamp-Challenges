@@ -1,6 +1,8 @@
 {% extends "layout.njk" %}
 
-{% block head %} <link href="courses.css" rel="stylesheet"> {% endblock %}
+{% block head %} 
+<link href="course.css" rel="stylesheet"> 
+{% endblock %}
 
 {% block content %}
 
@@ -8,9 +10,6 @@
       <a href="/"><img src="./logo-rocketseat 1.svg" alt="logo rocket"></a>
   </header>
 
-<section class="cards">
-
- {% for item in items %}
 
     <div class="card" id="{{item.id}}">
         
@@ -27,16 +26,11 @@
         </div>
         
         <div class="info">
-            <p class="module">{{item.duration}}</p>
-            <p class="price">{{item.price}}</p>
+            <a href="https://www.rocketseat.com.br/{{item.id}}" class="access">Acessar</a> 
         </div>
         
     </div>
 
-  {% endfor %}
-
-</section>
-
-<script src="/scripts.js"></script>
-
+ <script src="/scripts.js"></script>
+ 
 {% endblock %}
