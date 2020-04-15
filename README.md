@@ -38,7 +38,7 @@
 - **JavaScript**.
 
 <h1>Challenges of Module 2-3</h1>
-<h2>Desafios/challengs 3.1 e 3.2: Start server - backend / Iniciando o servidor - backend:</h2>
+<h2>Desafios/challengs 3.1, 3.2 e 3.3: Start server - backend / Iniciando o servidor - backend:</h2>
 
 - **Node.js**;
 - **Express**;
