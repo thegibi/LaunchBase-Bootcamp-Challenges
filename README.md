@@ -5,7 +5,7 @@
 <h1 align="center">challengs-launchBase-bootcamp</h2>&nbsp;&nbsp;&nbsp;
 <h3 align="center">Challenges building in the course of the launchBase bootcamp.</h3>&nbsp;
 
-<h1>Challenges of Module 1</h1>
+# Challenges of Module 1 / Desafios do Múdolo 1
 <h2>Desafios/challengs - 1 e 2: Conceitos sobre/Concepts about:</h2>
  
 - **Variáveis/Variables**;
@@ -30,7 +30,7 @@
 - **Padronização/Standardization**;
 - **Organização/Organization**.
 
-<h1>Challenges of Module 2</h1>
+# Challenges of Module 2 / Desafios do Múdolo 2
 <h2>Desafios/challengs 2.1 , 2.2 e 2.3: Start Web development - fontend / Iniciando Desenvolvimento Web - frontend:</h2>
 
 - **HTML5**;
